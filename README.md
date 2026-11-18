@@ -1,7 +1,7 @@
 # Lab 4: Registration, Login and JWT
 
-**Student Name:** T.SHASHANK  
-**Registration Number:** 252U1R1243  
+**Student Name:** Rayudu Chathwik Sri Sai 
+**Registration Number:** 252U1R1219  
 **Section:** CSE-2E(211)
 **Course:** Backend Development Fundamentals  
 **Year / Term:** II Term II  
