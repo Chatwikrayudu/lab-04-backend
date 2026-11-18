@@ -2,11 +2,11 @@
 
 **Student Name:** T.SHASHANK  
 **Registration Number:** 252U1R1243  
-**Section:** [Enter Section]  
+**Section:** CSE-2E(211)
 **Course:** Backend Development Fundamentals  
 **Year / Term:** II Term II  
 **Module:** Authentication and User Management  
-**Faculty:** Joel Prashanth D  
+**Faculty:** YUGHANDHAR GURJALWAR
 
 ---
 
