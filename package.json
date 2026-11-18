@@ -4,7 +4,8 @@
   "description": "College Lab 4: Registration, Login and JWT Authentication",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "view-db": "node database/view_db.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
